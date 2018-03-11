@@ -1,4 +1,8 @@
+[![Build Status](https://travis-ci.org/thienban/dashingJs2.svg?branch=master)](https://travis-ci.org/thienban/dashingJs2)
+[![Coverage Status](https://coveralls.io/repos/github/thienban/dashingJs2/badge.svg?branch=master)](https://coveralls.io/github/thienban/dashingJs2?branch=master)
+
 # DashingJs2
+Dashbord avec les KPI(météo, réseaux sociaux).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
