@@ -29,11 +29,11 @@ module.exports = function (config) {
     autoWatch: true,
     browsers: ['Chrome'],
       customLaunchers: {
-        ChromeNoSandbox: {
-          base: 'Chrome',
-          flags: ['--no-sandbox']
-        }
-      },
+      ChromeNoSandbox: {
+      base: 'Chrome',
+      flags: ['--no-sandbox']
+    }
+    },
     singleRun: false
   });
 };
