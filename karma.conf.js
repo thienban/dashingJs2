@@ -28,11 +28,11 @@ module.exports = function (config) {
     logLevel: config.LOG_INFO,
     autoWatch: true,
     browsers: ['Chrome'],
-      customLaunchers: {
+    customLaunchers: {
       ChromeNoSandbox: {
-      base: 'Chrome',
-      flags: ['--no-sandbox']
-    }
+        base: 'Chrome',
+        flags: ['--no-sandbox']
+      }
     },
     singleRun: false
   });
