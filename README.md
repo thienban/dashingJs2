@@ -1,9 +1,17 @@
 [![Build Status](https://travis-ci.org/thienban/dashingJs2.svg?branch=master)](https://travis-ci.org/thienban/dashingJs2)
 [![Coverage Status](https://coveralls.io/repos/github/thienban/dashingJs2/badge.svg?branch=master)](https://coveralls.io/github/thienban/dashingJs2?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/51d244cdb23442708bdba94af2ce8622)](https://www.codacy.com/app/thienban/dashingJs2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=thienban/dashingJs2&amp;utm_campaign=Badge_Grade)
+[![Known Vulnerabilities](https://snyk.io/test/github/thienban/dashingjs2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/thienban/dashingjs2?targetFile=package.json)
 
 # DashingJs2
 Dashbord avec les KPI(météo, réseaux sociaux)
+
 CI: Travis, Coveralls
+
+Quality Code review : Codacy
+
+Vulnerabilty : Snyk
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
