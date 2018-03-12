@@ -37,4 +37,3 @@ deploy:
   keep-history: true
   on:
     branch: master
-    branch: feat/gh-pages
