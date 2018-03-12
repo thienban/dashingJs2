@@ -38,3 +38,4 @@ deploy:
   on:
     branch: master
     branch: feat/gh-pages
+
