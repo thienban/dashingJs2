@@ -4,7 +4,13 @@
 
 # DashingJs2
 Dashbord avec les KPI(météo, réseaux sociaux)
+
 CI: Travis, Coveralls
+
+Quality Code review : Codacy
+
+Vulnerabilty : Snyk
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
