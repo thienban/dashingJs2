@@ -4,13 +4,13 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/thienban/dashingjs2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/thienban/dashingjs2?targetFile=package.json)
 
 # DashingJs2
-Dashbord avec les KPI(météo, réseaux sociaux)
+Dashbord with KPI(weather, social network)
 
-CI: Travis, Coveralls
+Continuous Integration: Travis, Coveralls
 
 Quality Code review : Codacy
 
-Vulnerabilty : Snyk
+Vulnerabilty test : Snyk
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
