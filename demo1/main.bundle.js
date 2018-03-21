@@ -27,7 +27,7 @@ module.exports = "<!--The content below is only a placeholder and can be replace
 /***/ "./src/app/app.component.scss":
 /***/ (function(module, exports) {
 
-module.exports = "h1 {\n  color: blue; }\n"
+module.exports = "h1 {\n  color: white;\n  border-top-style: dashed;\n  border-bottom-style: solid; }\n\nh2 {\n  display: inline-block;\n  max-width: 100%;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n  word-wrap: normal; }\n"
 
 /***/ }),
 
