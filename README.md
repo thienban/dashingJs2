@@ -12,6 +12,8 @@ Quality Code review : Codacy
 
 Vulnerabilty test : Snyk
 
+SASS with Bourbon
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
